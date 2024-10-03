@@ -9,3 +9,4 @@
 6. [git 面试](https://github.com/gg8899/fe-interview/blob/master/lib/git_fe.md)
 7. [项目优化](https://github.com/gg8899/fe-interview/blob/master/lib/optimization.md)
 8. [微前端](https://github.com/gg8899/fe-interview/blob/master/lib/microfe.md)
+9. [多端](https://github.com/gg8899/fe-interview/blob/master/lib/cross_fe.md)
