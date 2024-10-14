@@ -4,7 +4,7 @@
 
 
 ## 二、CSS 部分
-
+[- 一个列表的每个底部加上下划线，最后一个不加。有什么优雅的写法](https://github.com/gg8899/fe-interview/issues/84)
 
 
 ## 三、JS 部分
@@ -29,6 +29,15 @@
 - [esm 和 commonjs 的实现的原理和区别。](https://github.com/gg8899/fe-interview/issues/31)
 - [用过 proxy 吗，什么情况下用。](https://github.com/gg8899/fe-interview/issues/30)
 - [Aop 有哪些应用场景，设计在项目中哪些地方。同理 EP 也是。](https://github.com/gg8899/fe-interview/issues/32)
+- [深拷贝和浅拷贝有什么区别，分别如何实现。](https://github.com/gg8899/fe-interview/issues/82)
+- [作用域是什么，作用域链是什么。](https://github.com/gg8899/fe-interview/issues/81)
+- [promise then 中为什么是异步的。](https://github.com/gg8899/fe-interview/issues/85)
+- [什么是事件循环。什么是宏任务和微任务，执行顺序是什么。](https://github.com/gg8899/fe-interview/issues/86)
+- [indexDB 介绍一下。](https://github.com/gg8899/fe-interview/issues/87)
+- [localStorage 和 sessionStorage、cookie 的区别。](https://github.com/gg8899/fe-interview/issues/88)
+- [ES6 怎么转成 ES5 的。](https://github.com/gg8899/fe-interview/issues/89)
+
+
 
 
 ## TypeScript
@@ -87,5 +96,21 @@ new Promise(function (resolve) {
     console.log(3);
 })
 console.log(4);
-
 ```
+
+3、下面代码运行结果 xhs-wb ： 1 5
+```js
+const promise = new Promise((res, rej) => {
+    console.log(1);
+})
+
+promise.then(() => {
+    console.log(1);
+}, () => {
+    console.log(2);
+}).catch(() => {
+    console.log(4);
+})
+console.log(5);
+```
+如果有 console.log(1) 后面接着rej();  打印为  1 5 4。

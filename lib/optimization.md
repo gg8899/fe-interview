@@ -17,7 +17,11 @@
 - [什么是前端工程化，结合自身业务解释前端工程化应该包含哪些部分。](https://github.com/gg8899/fe-interview/issues/47)
 - [webpack的工作原理。](https://github.com/gg8899/fe-interview/issues/48)
 - [什么是编译器。](https://github.com/gg8899/fe-interview/issues/49)
-- Webpack 怎么建立模块间的依赖关系。
+- [Webpack 怎么建立模块间的依赖关系。](https://github.com/gg8899/fe-interview/issues/80)
+- [webpack 如何提高打包构建速度。](https://github.com/gg8899/fe-interview/issues/94)
+- [webpack 模块热替换的原理。](https://github.com/gg8899/fe-interview/issues/95)
+- [什么是 treeShaking。](https://github.com/gg8899/fe-interview/issues/97)
+- [用过哪些 webpack 插件。](https://github.com/gg8899/fe-interview/issues/96)
 
 
 ## 低代码

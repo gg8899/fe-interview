@@ -7,3 +7,6 @@
 - [前端如何防范安全。](https://github.com/gg8899/fe-interview/issues/44)
 - [应用层的协议有哪些。](https://github.com/gg8899/fe-interview/issues/43)
 - [301、302、303、401、403 代表什么。](https://github.com/gg8899/fe-interview/issues/42)
+- [http1 和 http2 的区别。](https://github.com/gg8899/fe-interview/issues/83)
+- [https 和 http 有什么区别。](https://github.com/gg8899/fe-interview/issues/92)
+- [如何申请一个 https。](https://github.com/gg8899/fe-interview/issues/93)

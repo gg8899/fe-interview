@@ -12,4 +12,3 @@
 10. [微前端如何实现 JS 沙箱隔离。](https://github.com/gg8899/fe-interview/issues/12)
 11. [微前端如何进行通信的呢。](https://github.com/gg8899/fe-interview/issues/13)
 12. [微前端如何进行公共依赖抽取。](https://github.com/gg8899/fe-interview/issues/14)
-13. 微前端的特点，提供微前端的核心思路。
