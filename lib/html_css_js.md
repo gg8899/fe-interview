@@ -1,7 +1,7 @@
 # html_css_js
 
 ## 一、HTML部分
-
+- [什么是盒模型。](https://github.com/gg8899/fe-interview/issues/100)
 
 ## 二、CSS 部分
 [- 一个列表的每个底部加上下划线，最后一个不加。有什么优雅的写法](https://github.com/gg8899/fe-interview/issues/84)
@@ -36,6 +36,8 @@
 - [indexDB 介绍一下。](https://github.com/gg8899/fe-interview/issues/87)
 - [localStorage 和 sessionStorage、cookie 的区别。](https://github.com/gg8899/fe-interview/issues/88)
 - [ES6 怎么转成 ES5 的。](https://github.com/gg8899/fe-interview/issues/89)
+- [防抖和节流的区别。](https://github.com/gg8899/fe-interview/issues/101)
+- [一个定时器任务触发事件是0.2s-2s 连续触发多个该任务之后，第一个阻塞了，后续会阻塞嘛？](https://github.com/gg8899/fe-interview/issues/112)
 
 
 

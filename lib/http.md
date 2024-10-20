@@ -10,3 +10,4 @@
 - [http1 和 http2 的区别。](https://github.com/gg8899/fe-interview/issues/83)
 - [https 和 http 有什么区别。](https://github.com/gg8899/fe-interview/issues/92)
 - [如何申请一个 https。](https://github.com/gg8899/fe-interview/issues/93)
+- [协商缓存和强缓存，两者的优先级。](https://github.com/gg8899/fe-interview/issues/103)

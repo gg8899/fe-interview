@@ -2,14 +2,13 @@
 
 
 ## 前端性能及错误捕获等
-- 前端性能-首屏优化你如何做的。如何分析一个页面的性能。哪些资源影响它的加载速度。
-- 做过哪些优化用户体验的事情。
-- 如何收集前端常见的错误信息和性能指标。
-- 错误捕获如何捕获的？有哪些错误。
-- 根据前端编码规范化，如何实现一个自定义的 eslint 插件。
-- 如何测试前端性能，如何优化前端性能，基于项目。
-- 前端如何进行全局埋点，你可以如何做？
-- 前端埋点，如何进行数据上报的有哪些数据上传了，格式是什么。
+- [前端性能-首屏优化你如何做的。如何分析一个页面的性能。哪些资源影响它的加载速度。](https://github.com/gg8899/fe-interview/issues/105)
+- [做过哪些优化用户体验的事情。](https://github.com/gg8899/fe-interview/issues/106)
+- [如何收集前端常见的错误信息和性能指标。](https://github.com/gg8899/fe-interview/issues/107)
+- [错误捕获如何捕获的？有哪些错误。](https://github.com/gg8899/fe-interview/issues/107)
+- [根据前端编码规范化，如何实现一个自定义的 eslint 插件。](https://github.com/gg8899/fe-interview/issues/108)
+- [基于项目，如何测试前端性能，如何优化前端性能。](https://github.com/gg8899/fe-interview/issues/109)
+- [前端如何进行全局埋点，你可以如何做？数据上报的有哪些数据上传了，格式是什么](https://github.com/gg8899/fe-interview/issues/110)
 
 
 
