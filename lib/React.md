@@ -2,6 +2,7 @@
 
 ## React
 
+- [react 中函数组件和 class 组件有什么区别，各自差异点。](https://github.com/gg8899/fe-interview/issues/165)
 - [react 和 vue 的区别？](https://github.com/gg8899/fe-interview/issues/52)
 - [react 原理是什么？](https://github.com/gg8899/fe-interview/issues/61)
 - [JSX 是什么？如何通过react 转成对应标签的。](https://github.com/gg8899/fe-interview/issues/54)
@@ -47,6 +48,8 @@
 ## React Redux
 
 - [dva 看过源码嘛？依赖了哪些库。如何实现的。](https://github.com/gg8899/fe-interview/issues/77)
+- [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
+  
 
 
 
