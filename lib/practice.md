@@ -17,3 +17,4 @@
 - [文件上传，做过大文件上传嘛？如何保证前端上传的文件大小和服务器保存的文件大小一致。](https://github.com/gg8899/fe-interview/issues/122)
 - [在项目中负责过哪部分难点。](https://github.com/gg8899/fe-interview/issues/123)
 - [做过哪些复杂的业务场景。](https://github.com/gg8899/fe-interview/issues/124)
+- [用过哪些设计模式。](https://github.com/gg8899/fe-interview/issues/173)

@@ -6,15 +6,19 @@
 - [v-if 和 v-for 为什么不能同时使用。](https://github.com/gg8899/fe-interview/issues/128)
 - [v-if 和 v-show 的区别。v-show 会导致重排吗？](https://github.com/gg8899/fe-interview/issues/129)
 - [vue 中有哪些修饰符。](https://github.com/gg8899/fe-interview/issues/130)
-
 - [vue 组件如何进行通信。](https://github.com/gg8899/fe-interview/issues/131)
-
 - [watch 和 computed 的区别，应用场景，底层源码如何实现的。](https://github.com/gg8899/fe-interview/issues/132)
 - [watch 和 watchEffect 的区别，应用场景，底层源码如何实现的。](https://github.com/gg8899/fe-interview/issues/133)
 - [哪些插槽，应用场景，插槽如何进行传值。底层源码如何实现的。](https://github.com/gg8899/fe-interview/issues/134)
-
-
 - [vue2 和 vue3 的 diff 算法各自如何实现的。](https://github.com/gg8899/fe-interview/issues/126)
+- [v-bind 和 v-model 有什么区别。](https://github.com/gg8899/fe-interview/issues/167)
+- [vue 表單做編輯操作的時候，離開頁面，如何做頁面攔截并且做二次確認？react 項目又如何實現。説説思路。](https://github.com/gg8899/fe-interview/issues/170)
+- [vue3 兄弟组件之间传值，表单校验如何优化，让代码更加优雅。](https://github.com/gg8899/fe-interview/issues/171)
+- [vue3 同级组件传值有哪些方法。](https://github.com/gg8899/fe-interview/issues/170)
+- 
+
+
+
 
 ## vue3
 - [vue3 的响应式是如何实现的, reactive 和 readOnly 的区别是什么。](https://github.com/gg8899/fe-interview/issues/136)

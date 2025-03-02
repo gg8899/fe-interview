@@ -31,6 +31,10 @@
 - [React.memo 的第二个参数是什么？实现原理。](https://github.com/gg8899/fe-interview/issues/70)
 - [useMemo 和 useCallback 的区别。](https://github.com/gg8899/fe-interview/issues/104)
 - [封装一个防抖节流的 hooks。](https://github.com/gg8899/fe-interview/issues/102) 
+- [react 的生命周期：3部分 挂载 更新 卸载 生命周期用哪个做性能优化。](https://github.com/gg8899/fe-interview/issues/162)
+- [react 中函数组件和 class 组件有什么区别，各自差异点。](https://github.com/gg8899/fe-interview/issues/165)
+- [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
+- [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
 
 
 
@@ -47,6 +51,7 @@
 ## React Redux
 
 - [dva 看过源码嘛？依赖了哪些库。如何实现的。](https://github.com/gg8899/fe-interview/issues/77)
+- redux 原理是什么。
 
 
 
