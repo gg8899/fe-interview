@@ -18,3 +18,14 @@
 - [在项目中负责过哪部分难点。](https://github.com/gg8899/fe-interview/issues/123)
 - [做过哪些复杂的业务场景。](https://github.com/gg8899/fe-interview/issues/124)
 - [用过哪些设计模式。](https://github.com/gg8899/fe-interview/issues/173)
+
+
+
+
+## vue3 CMU 相关
+1. 项目 `approval` 和 `effective` 流程实现。
+2. 项目前端权限实现。
+3. 页面处于编辑状态下，离开页面，实现路由拦截。
+4. 页面路由配置。
+5. 表单自定义校验规则实现。
+6. 组件封装相关内容。
