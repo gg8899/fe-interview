@@ -4,6 +4,7 @@
 
 - [vue 有哪些指令。](https://github.com/gg8899/fe-interview/issues/127)
 - [v-if 和 v-for 为什么不能同时使用。](https://github.com/gg8899/fe-interview/issues/128)
+- v-if 和 v-for 的优先级是什么
 - [v-if 和 v-show 的区别。v-show 会导致重排吗？](https://github.com/gg8899/fe-interview/issues/129)
 - [vue 中有哪些修饰符。](https://github.com/gg8899/fe-interview/issues/130)
 - [vue 组件如何进行通信。](https://github.com/gg8899/fe-interview/issues/131)
@@ -17,13 +18,13 @@
 - [vue3 同级组件传值有哪些方法。](https://github.com/gg8899/fe-interview/issues/170)
 - vue 的nextTick 是如何实现的
 - vue 是如何实现数据的双向绑定的
-- vue 中的数据频繁变化，为什么只会更新一次。
+- [vue 中的数据频繁变化，为什么只会更新一次。](https://github.com/gg8899/fe-interview/issues/178)
 - 为什么 vue3 去除了 vue 的构造函数
 - 简单介绍一下 vue3 的内部运行机制
 - computed 是如何实现数据缓存的，为什么不支持异步操作。
 - watch 和 computed 哪些区别呢
-- vue3 的diff 算法做了哪些优化。
-- 
+- [vue3 的diff 算法做了哪些优化。](https://github.com/gg8899/fe-interview/issues/176)
+- [说一下 vue3 在进行模板编译时做了哪些优化。](https://github.com/gg8899/fe-interview/issues/177)
 
 
 

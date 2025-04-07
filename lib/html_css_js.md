@@ -16,6 +16,7 @@
 
 ## 三、JS 部分
 - [JS 有几种基本数据类型，分别有哪些？](https://github.com/gg8899/fe-interview/issues/148)
+- [JS 中的基本数据类型有哪些，基本数据类型和引用数据类型的区别。](https://github.com/gg8899/fe-interview/issues/174)
 - [forEach 和 map 的区别](https://github.com/gg8899/fe-interview/issues/149)
 - [数组的方法。](https://github.com/gg8899/fe-interview/issues/159)
 - [合并数组。](https://github.com/gg8899/fe-interview/issues/158)
@@ -57,7 +58,7 @@
 - [ES6 怎么转成 ES5 的。](https://github.com/gg8899/fe-interview/issues/89)
 - [防抖和节流的区别。](https://github.com/gg8899/fe-interview/issues/101)
 - [一个定时器任务触发事件是0.2s-2s 连续触发多个该任务之后，第一个阻塞了，后续会阻塞嘛？](https://github.com/gg8899/fe-interview/issues/112)
-- JS 中的 const 申明的数组可以进行 push 的操作吗？
+- [JS 中的 const 申明的数组可以进行 push 的操作吗？](https://github.com/gg8899/fe-interview/issues/175)
 - undefined === null 返回的结果是什么？两者的区别在哪？
 - 为什么普通 for 循环的性能远高于 forEach。请解释其中的原因
 - map 和 forEach 的区别
@@ -65,6 +66,7 @@
 - Promise.all() 的使用场景。数组中的每一项都必须是 promise 对象吗。不是promise 对象会如何处理
 - 如何判断数组和对象
 - JS 中的执行上下文和执行栈是什么
+- 请手写一个 instanceof 
 
 
 
