@@ -16,15 +16,16 @@
 - [vue 表單做編輯操作的時候，離開頁面，如何做頁面攔截并且做二次確認？react 項目又如何實現。説説思路。](https://github.com/gg8899/fe-interview/issues/170)
 - [vue3 兄弟组件之间传值，表单校验如何优化，让代码更加优雅。](https://github.com/gg8899/fe-interview/issues/171)
 - [vue3 同级组件传值有哪些方法。](https://github.com/gg8899/fe-interview/issues/170)
-- vue 的nextTick 是如何实现的
-- vue 是如何实现数据的双向绑定的
+- [vue 的nextTick 是如何实现的。](https://github.com/gg8899/fe-interview/issues/182)
+- [vue 是如何实现数据的双向绑定的](https://github.com/gg8899/fe-interview/issues/186)
 - [vue 中的数据频繁变化，为什么只会更新一次。](https://github.com/gg8899/fe-interview/issues/178)
-- 为什么 vue3 去除了 vue 的构造函数
-- 简单介绍一下 vue3 的内部运行机制
-- computed 是如何实现数据缓存的，为什么不支持异步操作。
-- watch 和 computed 哪些区别呢
+- [为什么 vue3 去除了 vue 的构造函数。](https://github.com/gg8899/fe-interview/issues/183)
+- [简单介绍一下 vue3 的内部运行机制。](https://github.com/gg8899/fe-interview/issues/184)
+- [computed 是如何实现数据缓存的，为什么不支持异步操作。](https://github.com/gg8899/fe-interview/issues/181)
+- [watch 和 computed 哪些区别呢。](https://github.com/gg8899/fe-interview/issues/180)
 - [vue3 的diff 算法做了哪些优化。](https://github.com/gg8899/fe-interview/issues/176)
 - [说一下 vue3 在进行模板编译时做了哪些优化。](https://github.com/gg8899/fe-interview/issues/177)
+- [vue 组件 name 有社么用，可不可以不写 name。](https://github.com/gg8899/fe-interview/issues/179)
 
 
 
