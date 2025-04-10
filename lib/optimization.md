@@ -21,7 +21,7 @@
 - [webpack 模块热替换的原理。](https://github.com/gg8899/fe-interview/issues/95)
 - [什么是 treeShaking。](https://github.com/gg8899/fe-interview/issues/97)
 - [用过哪些 webpack 插件。](https://github.com/gg8899/fe-interview/issues/96)
-- package.json 文件中的 dependences 和 devDependencies 对象有什么区别
+- [package.json 文件中的 dependences 和 devDependencies 对象有什么区别。](https://github.com/gg8899/fe-interview/issues/187)
 - 说一下 webpack 中的几种 hash 的实现原理是什么
 - webpack 中loader 和 plugins 属性的区别是什么
 - webpack proxy 的工作原理，为什么能解决跨域

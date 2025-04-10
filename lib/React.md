@@ -15,6 +15,7 @@
 - [React 高阶组件HOC 是什么，有什么优点，应用场景。](https://github.com/gg8899/fe-interview/issues/59)
 - [利用 HOC 实现一个属性代理、反向继承的组件例子。](https://github.com/gg8899/fe-interview/issues/60)
 - [react hooks 和 hoc 定义的区别，参考使用情况。两者有什么区别和应用场景。](https://github.com/gg8899/fe-interview/issues/71)
+  - useMemo 和 useCallback 的区别及使用场景?
 - [什么是 fiber，为什么会出现 fiber。](https://github.com/gg8899/fe-interview/issues/63)
 - [fiber 如何更新 dom 的。](https://github.com/gg8899/fe-interview/issues/64)
 - [为什么 react 的 componentWillXXX 生命周期在 hooks 出现之后是 UNSAFE 的。](https://github.com/gg8899/fe-interview/issues/65)
@@ -36,6 +37,7 @@
 - [react 中函数组件和 class 组件有什么区别，各自差异点。](https://github.com/gg8899/fe-interview/issues/165)
 - [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
 - [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
+
 
 
 
