@@ -11,17 +11,18 @@
 - [虚拟 Dom 和真实 Dom 的区别。](https://github.com/gg8899/fe-interview/issues/56)
 - [受控组件和非受控组件的区别。使用场景。](https://github.com/gg8899/fe-interview/issues/57)
 - [业务组件和公用组件的区别。](https://github.com/gg8899/fe-interview/issues/58)
-- [useRef 的用法，使用场景。](https://github.com/gg8899/fe-interview/issues/53)
 - [React 高阶组件HOC 是什么，有什么优点，应用场景。](https://github.com/gg8899/fe-interview/issues/59)
 - [利用 HOC 实现一个属性代理、反向继承的组件例子。](https://github.com/gg8899/fe-interview/issues/60)
 - [react hooks 和 hoc 定义的区别，参考使用情况。两者有什么区别和应用场景。](https://github.com/gg8899/fe-interview/issues/71)
-  - useMemo 和 useCallback 的区别及使用场景?
 - [什么是 fiber，为什么会出现 fiber。](https://github.com/gg8899/fe-interview/issues/63)
 - [fiber 如何更新 dom 的。](https://github.com/gg8899/fe-interview/issues/64)
 - [为什么 react 的 componentWillXXX 生命周期在 hooks 出现之后是 UNSAFE 的。](https://github.com/gg8899/fe-interview/issues/65)
 - [setState 是同步还是异步，原理是什么。。。如何实现的第二个参数是什么。setState中为什么会有两种更新方式。](https://github.com/gg8899/fe-interview/issues/66)
-- [useEffect 和 useLayoutEffect 的区别。](https://github.com/gg8899/fe-interview/issues/50)
 - [什么是hooks，他的设计理念是什么。](https://github.com/gg8899/fe-interview/issues/51)
+- [useEffect 和 useLayoutEffect 的区别。](https://github.com/gg8899/fe-interview/issues/50)
+- [useRef 的用法，使用场景。](https://github.com/gg8899/fe-interview/issues/53)
+- [useState 和 useReducer 有什麽區別。](https://github.com/gg8899/fe-interview/issues/191)
+- [useMemo 和 useCallback 的区别。](https://github.com/gg8899/fe-interview/issues/104)
 - [封装过哪些 hooks，react hooks 的原理，它本质是一个什么东西。](https://github.com/gg8899/fe-interview/issues/67)
 - [结合 react hooks 的ahooks 库。是如何基于 gulp 和 webpack 提供基础的打包流程的。](https://github.com/gg8899/fe-interview/issues/72)
 - [如何封装一个 useRequest。](https://github.com/gg8899/fe-interview/issues/74)
@@ -31,14 +32,12 @@
 - [react diff算法实现流程。](https://github.com/gg8899/fe-interview/issues/68)
 - [react 是如何阻止页面进行渲染的。](https://github.com/gg8899/fe-interview/issues/69)
 - [React.memo 的第二个参数是什么？实现原理。](https://github.com/gg8899/fe-interview/issues/70)
-- [useMemo 和 useCallback 的区别。](https://github.com/gg8899/fe-interview/issues/104)
 - [封装一个防抖节流的 hooks。](https://github.com/gg8899/fe-interview/issues/102) 
 - [react 的生命周期：3部分 挂载 更新 卸载 生命周期用哪个做性能优化。](https://github.com/gg8899/fe-interview/issues/162)
 - [react 中函数组件和 class 组件有什么区别，各自差异点。](https://github.com/gg8899/fe-interview/issues/165)
 - [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
 - [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
-
-
+- [说一说 React 中的 updateQueue。](https://github.com/gg8899/fe-interview/issues/192)
 
 
 

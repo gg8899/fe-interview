@@ -15,7 +15,7 @@
 - [http发送请求的过程](https://github.com/gg8899/fe-interview/issues/161)
 - HTTP 的握手过程
 - [谈谈你对TCP三次的握手和四次挥手的理解。](https://github.com/gg8899/fe-interview/issues/189)
-- 简单讲一下http2的多路复用
-- 为什么Http1.1不能实现多路复用
+- [简单讲一下http2的多路复用。](https://github.com/gg8899/fe-interview/issues/193)
+- [为什么Http1.1不能实现多路复用。](https://github.com/gg8899/fe-interview/issues/194)
 - [介绍一下 http1.0 http2.0 http1.1 的区别。](https://github.com/gg8899/fe-interview/issues/188)
-- 为什多个域名存储网站资源更有效
+- [为什多个域名存储网站资源更有效。](https://github.com/gg8899/fe-interview/issues/202)

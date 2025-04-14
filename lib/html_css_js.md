@@ -5,7 +5,7 @@
 - 随机获取彩色用JavaScript+HTML实现双色球随机摇号效果，选择摇号的球在最前面。
 - 用JavaScript+HTML实现购物车，添加和删除元素。
 - 用JavaScript+HTML 实现列表按照id的大小顺利排列。
-- 如何添加、移除、复制、创建和查找节点
+- [如何添加、移除、复制、创建和查找节点。](https://github.com/gg8899/fe-interview/issues/197)
 
 - [H5里边新的标签有哪些](https://github.com/gg8899/fe-interview/issues/163)
 
@@ -60,11 +60,13 @@
 - [一个定时器任务触发事件是0.2s-2s 连续触发多个该任务之后，第一个阻塞了，后续会阻塞嘛？](https://github.com/gg8899/fe-interview/issues/112)
 - [JS 中的 const 申明的数组可以进行 push 的操作吗？](https://github.com/gg8899/fe-interview/issues/175)
 - undefined === null 返回的结果是什么？两者的区别在哪？
-- 为什么普通 for 循环的性能远高于 forEach。请解释其中的原因
-- map 和 forEach 的区别
-- 介绍一下 Set、Map、weakSet 和 weakMap 的区别
-- Promise.all() 的使用场景。数组中的每一项都必须是 promise 对象吗。不是promise 对象会如何处理
-- 如何判断数组和对象
+- [说一下 promise 和 async 和 await 什么关系。](https://github.com/gg8899/fe-interview/issues/198)
+- [为什么普通 for 循环的性能远高于 forEach。请解释其中的原因。](https://github.com/gg8899/fe-interview/issues/199)
+- [map 和 forEach 的区别。](https://github.com/gg8899/fe-interview/issues/205)
+- [介绍一下 Set、Map、weakSet 和 weakMap 的区别。](https://github.com/gg8899/fe-interview/issues/206)
+- [Promise.all() 的使用场景。数组中的每一项都必须是 promise 对象吗。不是promise 对象会如何处理。](https://github.com/gg8899/fe-interview/issues/207)
+- [如何判断数组和对象。https://github.com/gg8899/fe-interview/issues/208](https://github.com/gg8899/fe-interview/issues/208)
+- [事件委托以及冒泡原理。](https://github.com/gg8899/fe-interview/issues/209)
 - JS 中的执行上下文和执行栈是什么
 - 请手写一个 instanceof 
 
