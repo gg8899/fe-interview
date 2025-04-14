@@ -28,7 +28,7 @@
 - [介绍一下 webpack scope hoisting。](https://github.com/gg8899/fe-interview/issues/201)
 - [解释一下 npm 模块的安装机制是什么。](https://github.com/gg8899/fe-interview/issues/203)
 - [解释一下 webpack 插件的实现原理。](https://github.com/gg8899/fe-interview/issues/204)
-- webpack 是如何处理图片资源的。
+- [webpack 是如何处理图片资源的。](https://github.com/gg8899/fe-interview/issues/210)
 
 
 ## 低代码

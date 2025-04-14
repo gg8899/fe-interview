@@ -4,7 +4,6 @@
 
 - [vue 有哪些指令。](https://github.com/gg8899/fe-interview/issues/127)
 - [v-if 和 v-for 为什么不能同时使用。](https://github.com/gg8899/fe-interview/issues/128)
-- v-if 和 v-for 的优先级是什么
 - [v-if 和 v-show 的区别。v-show 会导致重排吗？](https://github.com/gg8899/fe-interview/issues/129)
 - [vue 中有哪些修饰符。](https://github.com/gg8899/fe-interview/issues/130)
 - [vue 组件如何进行通信。](https://github.com/gg8899/fe-interview/issues/131)
@@ -26,7 +25,7 @@
 - [vue3 的diff 算法做了哪些优化。](https://github.com/gg8899/fe-interview/issues/176)
 - [说一下 vue3 在进行模板编译时做了哪些优化。](https://github.com/gg8899/fe-interview/issues/177)
 - [vue 组件 name 有社么用，可不可以不写 name。](https://github.com/gg8899/fe-interview/issues/179)
-- V[ue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
+- [ue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
 
 
 

@@ -67,8 +67,8 @@
 - [Promise.all() 的使用场景。数组中的每一项都必须是 promise 对象吗。不是promise 对象会如何处理。](https://github.com/gg8899/fe-interview/issues/207)
 - [如何判断数组和对象。https://github.com/gg8899/fe-interview/issues/208](https://github.com/gg8899/fe-interview/issues/208)
 - [事件委托以及冒泡原理。](https://github.com/gg8899/fe-interview/issues/209)
-- JS 中的执行上下文和执行栈是什么
-- 请手写一个 instanceof 
+- [JS 中的执行上下文和执行栈是什么。](https://github.com/gg8899/fe-interview/issues/212)
+- [请手写一个 instanceof。](https://github.com/gg8899/fe-interview/issues/211)
 
 
 

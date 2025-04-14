@@ -13,7 +13,7 @@
 - [如何申请一个 https。](https://github.com/gg8899/fe-interview/issues/93)
 - [协商缓存和强缓存，两者的优先级。](https://github.com/gg8899/fe-interview/issues/103)
 - [http发送请求的过程](https://github.com/gg8899/fe-interview/issues/161)
-- HTTP 的握手过程
+- [HTTP 的握手过程。](https://github.com/gg8899/fe-interview/issues/213)
 - [谈谈你对TCP三次的握手和四次挥手的理解。](https://github.com/gg8899/fe-interview/issues/189)
 - [简单讲一下http2的多路复用。](https://github.com/gg8899/fe-interview/issues/193)
 - [为什么Http1.1不能实现多路复用。](https://github.com/gg8899/fe-interview/issues/194)
