@@ -1,7 +1,7 @@
 # vue 
 
 - [vue2 和 vue3 的区别。](https://github.com/gg8899/fe-interview/issues/125)
-
+- [composition api相比于option api有哪些优势？](https://github.com/gg8899/fe-interview/issues/214)
 - [vue 有哪些指令。](https://github.com/gg8899/fe-interview/issues/127)
 - [v-if 和 v-for 为什么不能同时使用。](https://github.com/gg8899/fe-interview/issues/128)
 - [v-if 和 v-show 的区别。v-show 会导致重排吗？](https://github.com/gg8899/fe-interview/issues/129)
