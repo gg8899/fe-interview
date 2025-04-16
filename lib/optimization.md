@@ -30,6 +30,8 @@
 - [解释一下 webpack 插件的实现原理。](https://github.com/gg8899/fe-interview/issues/204)
 - [webpack 是如何处理图片资源的。](https://github.com/gg8899/fe-interview/issues/210)
 
+### Vite
+
 
 ## 低代码
 - 低代码平台出码的设计格式是什么。
