@@ -9,6 +9,7 @@
 - [根据前端编码规范化，如何实现一个自定义的 eslint 插件。](https://github.com/gg8899/fe-interview/issues/108)
 - [基于项目，如何测试前端性能，如何优化前端性能。](https://github.com/gg8899/fe-interview/issues/109)
 - [前端如何进行全局埋点，你可以如何做？数据上报的有哪些数据上传了，格式是什么](https://github.com/gg8899/fe-interview/issues/110)
+- [你平时开发 Vue 项目时，做了哪些性能上的优化？](https://github.com/gg8899/fe-interview/issues/216)
 
 
 
@@ -39,4 +40,4 @@
 - 低代码的到处二次开发后能不能还原到之前的样子？
 
 ## 算法
-- 算[法相關- 如何構建綫段樹。特點。](https://github.com/gg8899/fe-interview/issues/169)
+- [算法相關- 如何構建綫段樹。特點。](https://github.com/gg8899/fe-interview/issues/169)
