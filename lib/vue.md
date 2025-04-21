@@ -46,6 +46,7 @@
 - [vue 2 如何更新数组和对象，及时响应。](https://github.com/gg8899/fe-interview/issues/143)
 - [nextTick 和 setTimeout 有什么区别。nextTick 底层是什么。](https://github.com/gg8899/fe-interview/issues/144)
 - [vuex 是用来干嘛的，有哪些属性。](https://github.com/gg8899/fe-interview/issues/145)
+- [Vue 中如何让 CSS 值在当前的组件中起作用](https://github.com/gg8899/fe-interview/issues/218)
 
 
 
