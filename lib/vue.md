@@ -25,7 +25,7 @@
 - [vue3 的diff 算法做了哪些优化。](https://github.com/gg8899/fe-interview/issues/176)
 - [说一下 vue3 在进行模板编译时做了哪些优化。](https://github.com/gg8899/fe-interview/issues/177)
 - [vue 组件 name 有社么用，可不可以不写 name。](https://github.com/gg8899/fe-interview/issues/179)
-- [ue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
+- [vue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
 
 
 
