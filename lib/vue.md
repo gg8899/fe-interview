@@ -26,6 +26,7 @@
 - [说一下 vue3 在进行模板编译时做了哪些优化。](https://github.com/gg8899/fe-interview/issues/177)
 - [vue 组件 name 有社么用，可不可以不写 name。](https://github.com/gg8899/fe-interview/issues/179)
 - [vue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
+- [说一下 Vue SSR 的实现原理](https://github.com/gg8899/fe-interview/issues/219)
 
 
 
@@ -42,7 +43,7 @@
 - [vue2 有几个生命周期钩子，常用的有哪些。](https://github.com/gg8899/fe-interview/issues/138)
 - [vue2 的路由模式有哪几种？](https://github.com/gg8899/fe-interview/issues/139)
 - [vue2 的双向数据绑定原理是什么，数组如何实现双向数据绑定的。](https://github.com/gg8899/fe-interview/issues/142)
-- [为是什么 data 返回是一个函数。](https://github.com/gg8899/fe-interview/issues/140)
+- [为什么 data 返回是一个函数。](https://github.com/gg8899/fe-interview/issues/140)
 - [vue 2 如何更新数组和对象，及时响应。](https://github.com/gg8899/fe-interview/issues/143)
 - [nextTick 和 setTimeout 有什么区别。nextTick 底层是什么。](https://github.com/gg8899/fe-interview/issues/144)
 - [vuex 是用来干嘛的，有哪些属性。](https://github.com/gg8899/fe-interview/issues/145)
