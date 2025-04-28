@@ -27,6 +27,7 @@
 - [vue 组件 name 有社么用，可不可以不写 name。](https://github.com/gg8899/fe-interview/issues/179)
 - [vue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
 - [说一下 Vue SSR 的实现原理](https://github.com/gg8899/fe-interview/issues/219)
+- [在给 vue 中的元素设置 key 值时可以使用 Math 的 random 方法么](https://github.com/gg8899/fe-interview/issues/221)
 
 
 
@@ -48,6 +49,7 @@
 - [nextTick 和 setTimeout 有什么区别。nextTick 底层是什么。](https://github.com/gg8899/fe-interview/issues/144)
 - [vuex 是用来干嘛的，有哪些属性。](https://github.com/gg8899/fe-interview/issues/145)
 - [Vue 中如何让 CSS 值在当前的组件中起作用](https://github.com/gg8899/fe-interview/issues/218)
+- [说一下vue2中 ref 的作用是什么。](https://github.com/gg8899/fe-interview/issues/220)
 
 
 
