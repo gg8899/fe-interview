@@ -28,6 +28,7 @@
 - [vue 项目中前端路由传参方式有哪些。](https://github.com/gg8899/fe-interview/issues/190)
 - [说一下 Vue SSR 的实现原理](https://github.com/gg8899/fe-interview/issues/219)
 - [在给 vue 中的元素设置 key 值时可以使用 Math 的 random 方法么](https://github.com/gg8899/fe-interview/issues/221)
+- [vue 爲什麽采用異步渲染](https://github.com/gg8899/fe-interview/issues/222)
 
 
 
