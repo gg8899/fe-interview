@@ -29,6 +29,8 @@
 - [说一下 Vue SSR 的实现原理](https://github.com/gg8899/fe-interview/issues/219)
 - [在给 vue 中的元素设置 key 值时可以使用 Math 的 random 方法么](https://github.com/gg8899/fe-interview/issues/221)
 - [vue 爲什麽采用異步渲染](https://github.com/gg8899/fe-interview/issues/222)
+- [Vue 为什么没有类似于 React 中 shouldComponentUpdate 的生命周期](https://github.com/gg8899/fe-interview/issues/223)
+  
 
 
 
