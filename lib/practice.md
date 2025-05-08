@@ -18,6 +18,8 @@
 - [在项目中负责过哪部分难点。](https://github.com/gg8899/fe-interview/issues/123)
 - [做过哪些复杂的业务场景。](https://github.com/gg8899/fe-interview/issues/124)
 - [用过哪些设计模式。](https://github.com/gg8899/fe-interview/issues/173)
+- [組件發佈是不是所有依賴這個組件的項目都要升級](https://github.com/gg8899/fe-interview/issues/224)
+
 
 
 

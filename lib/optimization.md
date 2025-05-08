@@ -20,6 +20,7 @@
 - [Webpack 怎么建立模块间的依赖关系。](https://github.com/gg8899/fe-interview/issues/80)
 - [webpack 如何提高打包构建速度。](https://github.com/gg8899/fe-interview/issues/94)
 - [webpack 模块热替换的原理。](https://github.com/gg8899/fe-interview/issues/95)
+- [webpack熱更新原理是什麽](https://github.com/gg8899/fe-interview/issues/225)
 - [什么是 treeShaking。](https://github.com/gg8899/fe-interview/issues/97)
 - [用过哪些 webpack 插件。](https://github.com/gg8899/fe-interview/issues/96)
 - [package.json 文件中的 dependences 和 devDependencies 对象有什么区别。](https://github.com/gg8899/fe-interview/issues/187)
@@ -31,6 +32,7 @@
 - [解释一下 webpack 插件的实现原理。](https://github.com/gg8899/fe-interview/issues/204)
 - [webpack 是如何处理图片资源的。](https://github.com/gg8899/fe-interview/issues/210)
 - [package.json中 peerDependencies 有没有用到过?作用是什么](https://github.com/gg8899/fe-interview/issues/217)
+
 
 ### Vite
 

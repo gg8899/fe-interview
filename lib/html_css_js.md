@@ -28,7 +28,7 @@
 - [什么是深拷贝和浅拷贝，如何实现。](https://github.com/gg8899/fe-interview/issues/156)
 - [怎么解决跨域问题。为什么会有这个问题](https://github.com/gg8899/fe-interview/issues/150)
 - [ES6新增的数据结构。](https://github.com/gg8899/fe-interview/issues/151)
-
+- [new 一个构造函数发生了什么](https://github.com/gg8899/fe-interview/issues/226)
 - [前端有哪几种数据存储方式。](https://github.com/gg8899/fe-interview/issues/15)
 - [typeof null 和 typeof [] 的结果是什么。](https://github.com/gg8899/fe-interview/issues/16)
 - [数组去重的方法(两种以上)。](https://github.com/gg8899/fe-interview/issues/17)
@@ -69,6 +69,10 @@
 - [事件委托以及冒泡原理。](https://github.com/gg8899/fe-interview/issues/209)
 - [JS 中的执行上下文和执行栈是什么。](https://github.com/gg8899/fe-interview/issues/212)
 - [请手写一个 instanceof。](https://github.com/gg8899/fe-interview/issues/211)
+- [JS 的垃圾回收机制](https://github.com/gg8899/fe-interview/issues/227)
+- [instanceof 和 typeof 的区别，instanceof 如何实现](https://github.com/gg8899/fe-interview/issues/228)
+- [介绍1下 WeakMap 和 WeakSet](https://github.com/gg8899/fe-interview/issues/229)
+- 
 
 
 
