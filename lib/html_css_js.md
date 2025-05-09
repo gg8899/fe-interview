@@ -72,7 +72,7 @@
 - [JS 的垃圾回收机制](https://github.com/gg8899/fe-interview/issues/227)
 - [instanceof 和 typeof 的区别，instanceof 如何实现](https://github.com/gg8899/fe-interview/issues/228)
 - [介绍1下 WeakMap 和 WeakSet](https://github.com/gg8899/fe-interview/issues/229)
-- 
+- [JavaScript中如何进行数据类型的转换？](https://github.com/gg8899/fe-interview/issues/231)
 
 
 
