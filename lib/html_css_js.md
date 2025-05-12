@@ -74,7 +74,7 @@
 - [介绍1下 WeakMap 和 WeakSet](https://github.com/gg8899/fe-interview/issues/229)
 - [JavaScript中如何进行数据类型的转换？](https://github.com/gg8899/fe-interview/issues/231)
 - [JavaScript 中对象的属性描述符有哪些？分别有什么作用？](https://github.com/gg8899/fe-interview/issues/232)
-- this的指向哪几种
+- [this的指向哪几种](https://github.com/gg8899/fe-interview/issues/233)
 
 
 
@@ -144,6 +144,7 @@ const promise = new Promise((res, rej) => {
 
 promise.then(() => {
     console.log(1);
+    // if rej()
 }, () => {
     console.log(2);
 }).catch(() => {
@@ -151,4 +152,28 @@ promise.then(() => {
 })
 console.log(5);
 ```
-如果有 console.log(1) 后面接着rej();  打印为  1 5 4。
+如果有 console.log(1) 后面接着rej();  打印为  1 5 2。
+
+
+4、下面的模块导出了什么结果？
+```js
+// module.js
+exports.a = 'a';
+module.exports.b = 'b';
+this.c = 'c';
+module.exports = {
+  d: 'd'
+}
+```
+解析：
+- `exports.a = 'a'`这行代码使用 `exports` 对象将 `a` 绑定到 `'a'` 字符串。通常，`exports` 是指向 `module.exports`的一个引用。所以这行语句等价于将 `'a'` 赋给 `module.exports.a`。
+- `module.exports.b = 'b'`;这行代码通过直接修改 `module.exports` 对象，将 `b` 设置为 `'b'`。
+- `this.c = 'c';`这行代码试图将 `c` 绑定到 `this` 对象。注意，**这里 `this` 指向的不是全局对象，而是当前模块的 `module.exports`**，所以实际上它会将 `c` 设置为 `module.exports.c`。
+- `module.exports = { d: 'd' };`这行代码将 `module.exports` 重新赋值为一个新的对象 `{ d: 'd' }`，覆盖了之前通过 `exports` 和 `module.exports `设置的所有内容。
+
+**结果：**
+```js
+// index.js
+const moduleContent = require('./module');
+console.log(moduleContent); // { d: 'd' }
+```
