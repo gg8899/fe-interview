@@ -31,6 +31,7 @@
 - [vue 爲什麽采用異步渲染](https://github.com/gg8899/fe-interview/issues/222)
 - [Vue 为什么没有类似于 React 中 shouldComponentUpdate 的生命周期](https://github.com/gg8899/fe-interview/issues/223)
 - [vue 中相同逻辑如何抽离](https://github.com/gg8899/fe-interview/issues/230)
+- [computed 和 method 的區別](https://github.com/gg8899/fe-interview/issues/237)
   
 
 
