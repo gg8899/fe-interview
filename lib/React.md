@@ -38,6 +38,7 @@
 - [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
 - [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
 - [说一说 React 中的 updateQueue。](https://github.com/gg8899/fe-interview/issues/192)
+- [了解 React 中的 ErrorBoundary 吗，它有那些使用场景](https://github.com/gg8899/fe-interview/issues/238)
 
 
 
