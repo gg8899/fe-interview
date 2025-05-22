@@ -34,6 +34,7 @@
 - [React.memo 的第二个参数是什么？实现原理。](https://github.com/gg8899/fe-interview/issues/70)
 - [封装一个防抖节流的 hooks。](https://github.com/gg8899/fe-interview/issues/102) 
 - [react 的生命周期：3部分 挂载 更新 卸载 生命周期用哪个做性能优化。](https://github.com/gg8899/fe-interview/issues/162)
+- [如何優化react項目的性能。](https://github.com/gg8899/fe-interview/issues/239)
 - [react 中函数组件和 class 组件有什么区别，各自差异点。](https://github.com/gg8899/fe-interview/issues/165)
 - [redux 和 mobx 有什么区别，各自优缺点。](https://github.com/gg8899/fe-interview/issues/166)
 - [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
