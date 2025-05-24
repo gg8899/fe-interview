@@ -21,3 +21,4 @@
 - [为什多个域名存储网站资源更有效。](https://github.com/gg8899/fe-interview/issues/202)
 - [介绍下单点登录](https://github.com/gg8899/fe-interview/issues/235)
 - [列举优化网络性能方法](https://github.com/gg8899/fe-interview/issues/236)
+- [http 状态码 502 和 504 有什么区别](https://github.com/gg8899/fe-interview/issues/240)
