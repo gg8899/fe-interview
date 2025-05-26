@@ -40,7 +40,7 @@
 - [react 19 哪些新特性。](https://github.com/gg8899/fe-interview/issues/172)
 - [说一说 React 中的 updateQueue。](https://github.com/gg8899/fe-interview/issues/192)
 - [了解 React 中的 ErrorBoundary 吗，它有那些使用场景](https://github.com/gg8899/fe-interview/issues/238)
-- 使用 react 实现一个通用的 message 组件
+- [使用 react 实现一个通用的 message 组件](https://github.com/gg8899/fe-interview/issues/243)
 - [React Portal 有哪些使用场景](https://github.com/gg8899/fe-interview/issues/242)
 - [useEffect 中如何使用 async/await](https://github.com/gg8899/fe-interview/issues/241)
 
