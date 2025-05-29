@@ -34,6 +34,9 @@
 - [package.json中 peerDependencies 有没有用到过?作用是什么](https://github.com/gg8899/fe-interview/issues/217)
 
 
+- [可以对图片开启 gzip 压缩吗，为什么](https://github.com/gg8899/fe-interview/issues/246)
+
+
 ### Vite
 
 
