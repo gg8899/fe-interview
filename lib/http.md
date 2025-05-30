@@ -22,3 +22,4 @@
 - [介绍下单点登录](https://github.com/gg8899/fe-interview/issues/235)
 - [列举优化网络性能方法](https://github.com/gg8899/fe-interview/issues/236)
 - [http 状态码 502 和 504 有什么区别](https://github.com/gg8899/fe-interview/issues/240)
+- [http 响应头中的 Date 与 Last-Modified 有什么不同，网站部署时需要注意什么](https://github.com/gg8899/fe-interview/issues/247)
