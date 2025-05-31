@@ -35,6 +35,7 @@
 
 
 - [可以对图片开启 gzip 压缩吗，为什么](https://github.com/gg8899/fe-interview/issues/246)
+- [performance API 中什么指标可以衡量首屏时间](https://github.com/gg8899/fe-interview/issues/248)
 
 
 ### Vite
