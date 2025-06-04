@@ -10,6 +10,7 @@
 - [基于项目，如何测试前端性能，如何优化前端性能。](https://github.com/gg8899/fe-interview/issues/109)
 - [前端如何进行全局埋点，你可以如何做？数据上报的有哪些数据上传了，格式是什么](https://github.com/gg8899/fe-interview/issues/110)
 - [你平时开发 Vue 项目时，做了哪些性能上的优化？](https://github.com/gg8899/fe-interview/issues/216)
+- [如何压缩前端项目中 JS 的体积](https://github.com/gg8899/fe-interview/issues/252)
 
 
 
