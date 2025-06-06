@@ -34,6 +34,7 @@
 - [webpack 是如何处理图片资源的。](https://github.com/gg8899/fe-interview/issues/210)
 - [package.json中 peerDependencies 有没有用到过?作用是什么](https://github.com/gg8899/fe-interview/issues/217)
 - [如何分析前端打包体积](https://github.com/gg8899/fe-interview/issues/251)
+- [Code Splitting 的原理是什么](https://github.com/gg8899/fe-interview/issues/254)
 
 
 - [可以对图片开启 gzip 压缩吗，为什么](https://github.com/gg8899/fe-interview/issues/246)
