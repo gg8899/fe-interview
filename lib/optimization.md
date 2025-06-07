@@ -40,6 +40,7 @@
 - [可以对图片开启 gzip 压缩吗，为什么](https://github.com/gg8899/fe-interview/issues/246)
 - [performance API 中什么指标可以衡量首屏时间](https://github.com/gg8899/fe-interview/issues/248)
 - [optionalDependencies 的使用场景是什么](https://github.com/gg8899/fe-interview/issues/253)
+- [peerDependency 是为了解决什么问题](https://github.com/gg8899/fe-interview/issues/255)
 
 
 ### Vite
