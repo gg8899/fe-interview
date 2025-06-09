@@ -90,6 +90,9 @@
 - [interface 和 type的区别是什么。可不可以重复定义。](https://github.com/gg8899/fe-interview/issues/37)
 
 
+- [在 Typescript 中如何实现类型标记 Pick 与 Omit](https://github.com/gg8899/fe-interview/issues/257)
+
+
 
 ### 代码运行结果题目
 1. 以下代码运行结果是
