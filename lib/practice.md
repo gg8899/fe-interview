@@ -21,7 +21,7 @@
 - [組件發佈是不是所有依賴這個組件的項目都要升級](https://github.com/gg8899/fe-interview/issues/224)
 - [网站开发中，如何实现图片的懒加载](https://github.com/gg8899/fe-interview/issues/250)
 
-
+- [前端金额精度丢失问题及其解决方案](https://github.com/gg8899/fe-interview/issues/258)
 
 
 
