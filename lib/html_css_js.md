@@ -80,6 +80,7 @@
 - [this的指向哪几种](https://github.com/gg8899/fe-interview/issues/233)
 - [export 和 export default 的区别是什么](https://github.com/gg8899/fe-interview/issues/234)
 - [Array(100).map(x => 1) 结果是多少？](https://github.com/gg8899/fe-interview/issues/244)
+- [isNaN 和 Number.isNaN 的区别](https://github.com/gg8899/fe-interview/issues/260)
 
 
 
