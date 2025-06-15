@@ -23,7 +23,7 @@
 
 - [前端金额精度丢失问题及其解决方案](https://github.com/gg8899/fe-interview/issues/258)
 
-
+- [如何优雅实现本地存储数据自动过期?](https://github.com/gg8899/fe-interview/issues/262)
 
 ## vue3 CMU 相关
 1. 项目 `approval` 和 `effective` 流程实现。
