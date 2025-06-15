@@ -16,6 +16,7 @@
 - [使用 CSS 如何画一个三角形](https://github.com/gg8899/fe-interview/issues/259)
 
 
+- [如何实现网页的加载进度条](https://github.com/gg8899/fe-interview/issues/263)
 
 ## 三、JS 部分
 - [JS 有几种基本数据类型，分别有哪些？](https://github.com/gg8899/fe-interview/issues/148)
