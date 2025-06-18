@@ -83,7 +83,7 @@
 - [Array(100).map(x => 1) 结果是多少？](https://github.com/gg8899/fe-interview/issues/244)
 - [isNaN 和 Number.isNaN 的区别](https://github.com/gg8899/fe-interview/issues/260)
 
-
+- [JS 如何中断代码的执行](https://github.com/gg8899/fe-interview/issues/265)
 
 ## TypeScript
 

@@ -25,7 +25,7 @@
 
 - [如何优雅实现本地存储数据自动过期?](https://github.com/gg8899/fe-interview/issues/262)
 
-
+- [如何在 url 中传递数组](https://github.com/gg8899/fe-interview/issues/266)
 
 
 
