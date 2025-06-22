@@ -12,7 +12,7 @@
 - [你平时开发 Vue 项目时，做了哪些性能上的优化？](https://github.com/gg8899/fe-interview/issues/216)
 - [如何压缩前端项目中 JS 的体积](https://github.com/gg8899/fe-interview/issues/252)
 
-
+- [你使用过哪些前端性能分析工具](https://github.com/gg8899/fe-interview/issues/270)
 
 
 ## 前端工程化
