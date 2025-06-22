@@ -24,3 +24,4 @@
 - [http 状态码 502 和 504 有什么区别](https://github.com/gg8899/fe-interview/issues/240)
 - [http 响应头中的 Date 与 Last-Modified 有什么不同，网站部署时需要注意什么](https://github.com/gg8899/fe-interview/issues/247)
 - [既然 http 是无状态协议，那它是如何保持登录状态](https://github.com/gg8899/fe-interview/issues/249)
+- [常见的前端攻击](https://github.com/gg8899/fe-interview/issues/268)
