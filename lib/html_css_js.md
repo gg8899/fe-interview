@@ -97,7 +97,7 @@
 
 
 - [在 Typescript 中如何实现类型标记 Pick 与 Omit](https://github.com/gg8899/fe-interview/issues/257)
-
+- [js 中如何实现 bind](https://github.com/gg8899/fe-interview/issues/276)
 
 
 ### 代码运行结果题目
