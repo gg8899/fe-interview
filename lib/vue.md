@@ -32,7 +32,7 @@
 - [Vue 为什么没有类似于 React 中 shouldComponentUpdate 的生命周期](https://github.com/gg8899/fe-interview/issues/223)
 - [vue 中相同逻辑如何抽离](https://github.com/gg8899/fe-interview/issues/230)
 - [computed 和 method 的區別](https://github.com/gg8899/fe-interview/issues/237)
-  
+- [vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进](https://github.com/gg8899/fe-interview/issues/277)  
 
 
 
