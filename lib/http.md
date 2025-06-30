@@ -28,6 +28,7 @@
 
 - [localhost:3000 与 localhost:5000 的 cookie 信息是否共享](https://github.com/gg8899/fe-interview/issues/274)
 
+- [随着 http2 的发展，前端性能优化中的哪些传统方案可以被替代](https://github.com/gg8899/fe-interview/issues/279)
 
 - [正则表达式可能存在哪些安全问题](https://github.com/gg8899/fe-interview/issues/269)
 - [如何设置一个 cookie](https://github.com/gg8899/fe-interview/issues/271)

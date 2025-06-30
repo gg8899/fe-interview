@@ -86,7 +86,6 @@
 - [isNaN 和 Number.isNaN 的区别](https://github.com/gg8899/fe-interview/issues/260)
 
 - [JS 如何中断代码的执行](https://github.com/gg8899/fe-interview/issues/265)
-
 - [如何实现 compose 函数，进行函数合成](https://github.com/gg8899/fe-interview/issues/278)
 
 ## TypeScript
