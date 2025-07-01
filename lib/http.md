@@ -33,4 +33,5 @@
 - [正则表达式可能存在哪些安全问题](https://github.com/gg8899/fe-interview/issues/269)
 - [如何设置一个 cookie](https://github.com/gg8899/fe-interview/issues/271)
 - [如何删除一个 cookie](https://github.com/gg8899/fe-interview/issues/272)
+- [cookie 有哪些字段](https://github.com/gg8899/fe-interview/issues/280)
 - [https 是如何保证报文安全的](https://github.com/gg8899/fe-interview/issues/275)
