@@ -31,6 +31,7 @@
 - [随着 http2 的发展，前端性能优化中的哪些传统方案可以被替代](https://github.com/gg8899/fe-interview/issues/279)
 
 - [正则表达式可能存在哪些安全问题](https://github.com/gg8899/fe-interview/issues/269)
+- [当 cookie 没有设置 maxage 时，cookie 会存在多久](https://github.com/gg8899/fe-interview/issues/281)
 - [如何设置一个 cookie](https://github.com/gg8899/fe-interview/issues/271)
 - [如何删除一个 cookie](https://github.com/gg8899/fe-interview/issues/272)
 - [cookie 有哪些字段](https://github.com/gg8899/fe-interview/issues/280)
