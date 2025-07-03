@@ -37,3 +37,4 @@
 - [cookie 有哪些字段](https://github.com/gg8899/fe-interview/issues/280)
 - [SameSite Cookie 有哪些值，是如何预防 CSRF 攻击的](https://github.com/gg8899/fe-interview/issues/282)
 - [https 是如何保证报文安全的](https://github.com/gg8899/fe-interview/issues/275)
+- [什么是队首阻塞，如何解决，原理如何](https://github.com/gg8899/fe-interview/issues/283)
