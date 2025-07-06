@@ -37,7 +37,7 @@
 - [如何分析前端打包体积](https://github.com/gg8899/fe-interview/issues/251)
 - [Code Splitting 的原理是什么](https://github.com/gg8899/fe-interview/issues/254)
 - [随着 http2 的发展，webpack 有没有更好的打包方案](https://github.com/gg8899/fe-interview/issues/256)
-
+- [package-lock.json 有什么作用，如果项目中没有它会怎么样，举例说明](https://github.com/gg8899/fe-interview/issues/284)
 
 - [可以对图片开启 gzip 压缩吗，为什么](https://github.com/gg8899/fe-interview/issues/246)
 - [performance API 中什么指标可以衡量首屏时间](https://github.com/gg8899/fe-interview/issues/248)
