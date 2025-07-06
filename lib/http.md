@@ -25,11 +25,8 @@
 - [http 响应头中的 Date 与 Last-Modified 有什么不同，网站部署时需要注意什么](https://github.com/gg8899/fe-interview/issues/247)
 - [既然 http 是无状态协议，那它是如何保持登录状态](https://github.com/gg8899/fe-interview/issues/249)
 - [常见的前端攻击](https://github.com/gg8899/fe-interview/issues/268)
-
 - [localhost:3000 与 localhost:5000 的 cookie 信息是否共享](https://github.com/gg8899/fe-interview/issues/274)
-
 - [随着 http2 的发展，前端性能优化中的哪些传统方案可以被替代](https://github.com/gg8899/fe-interview/issues/279)
-
 - [正则表达式可能存在哪些安全问题](https://github.com/gg8899/fe-interview/issues/269)
 - [当 cookie 没有设置 maxage 时，cookie 会存在多久](https://github.com/gg8899/fe-interview/issues/281)
 - [如何设置一个 cookie](https://github.com/gg8899/fe-interview/issues/271)
@@ -38,3 +35,4 @@
 - [SameSite Cookie 有哪些值，是如何预防 CSRF 攻击的](https://github.com/gg8899/fe-interview/issues/282)
 - [https 是如何保证报文安全的](https://github.com/gg8899/fe-interview/issues/275)
 - [什么是队首阻塞，如何解决，原理如何](https://github.com/gg8899/fe-interview/issues/283)
+- [在发送 http 请求报文时，Host 是必要的吗](https://github.com/gg8899/fe-interview/issues/285)
