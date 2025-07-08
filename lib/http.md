@@ -36,3 +36,4 @@
 - [https 是如何保证报文安全的](https://github.com/gg8899/fe-interview/issues/275)
 - [什么是队首阻塞，如何解决，原理如何](https://github.com/gg8899/fe-interview/issues/283)
 - [在发送 http 请求报文时，Host 是必要的吗](https://github.com/gg8899/fe-interview/issues/285)
+- [http 1.1 中的 keep-alive 有什么作用](https://github.com/gg8899/fe-interview/issues/286)
