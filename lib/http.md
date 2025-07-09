@@ -38,3 +38,5 @@
 - [在发送 http 请求报文时，Host 是必要的吗](https://github.com/gg8899/fe-interview/issues/285)
 - [http 1.1 中的 keep-alive 有什么作用](https://github.com/gg8899/fe-interview/issues/286)
 - [什么情况下会发送 OPTIONS 请求](https://github.com/gg8899/fe-interview/issues/287)
+- [如何减少 OPTIONS 请求](https://github.com/gg8899/fe-interview/issues/288)
+- [我们如何从 http 的报文中得知该服务使用的技术栈](https://github.com/gg8899/fe-interview/issues/289)
