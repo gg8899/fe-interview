@@ -41,6 +41,6 @@
 - [如何减少 OPTIONS 请求](https://github.com/gg8899/fe-interview/issues/288)
 - [我们如何从 http 的报文中得知该服务使用的技术栈](https://github.com/gg8899/fe-interview/issues/289)
 - [websocket 和短轮询有什么区别](https://github.com/gg8899/fe-interview/issues/290)
-
+- [http 向 https 做重定向应该使用哪个状态码](https://github.com/gg8899/fe-interview/issues/292)
 
 - [HTTP 响应头 cache-control: s-maxage=0 是什么意思](https://github.com/gg8899/fe-interview/issues/291)
