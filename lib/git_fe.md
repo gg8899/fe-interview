@@ -4,4 +4,7 @@
 - [git rebase 和 git merge 有什么区别。](https://github.com/gg8899/fe-interview/issues/90)
 - [常用的 git 命令有哪些。](https://github.com/gg8899/fe-interview/issues/91)
 - [多分支怎么出来协同开发的情况](https://github.com/gg8899/fe-interview/issues/295)
+- [如何在 git 提交的时候避开提交的校验](https://github.com/gg8899/fe-interview/issues/296)
+
+
 
