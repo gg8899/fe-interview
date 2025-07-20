@@ -34,6 +34,7 @@
 - [什么是深拷贝和浅拷贝，如何实现。](https://github.com/gg8899/fe-interview/issues/156)
 - [怎么解决跨域问题。为什么会有这个问题](https://github.com/gg8899/fe-interview/issues/150)
 - [ES6新增的数据结构。](https://github.com/gg8899/fe-interview/issues/151)
+- [说说你了解的数据结构](https://github.com/gg8899/fe-interview/issues/300)
 - [new 一个构造函数发生了什么](https://github.com/gg8899/fe-interview/issues/226)
 - [前端有哪几种数据存储方式。](https://github.com/gg8899/fe-interview/issues/15)
 - [typeof null 和 typeof [] 的结果是什么。](https://github.com/gg8899/fe-interview/issues/16)
