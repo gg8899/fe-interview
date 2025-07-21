@@ -23,6 +23,7 @@
 ## 三、JS 部分
 - [JS 有几种基本数据类型，分别有哪些？](https://github.com/gg8899/fe-interview/issues/148)
 - [JS 中的基本数据类型有哪些，基本数据类型和引用数据类型的区别。](https://github.com/gg8899/fe-interview/issues/174)
+- [说说你对 BOM 对象的理解，常见的 BOM 对象有那些？](https://github.com/gg8899/fe-interview/issues/301)
 - [forEach 和 map 的区别](https://github.com/gg8899/fe-interview/issues/149)
 - [数组的方法。](https://github.com/gg8899/fe-interview/issues/159)
 - [合并数组。](https://github.com/gg8899/fe-interview/issues/158)
