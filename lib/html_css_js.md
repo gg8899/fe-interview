@@ -86,13 +86,12 @@
 - [export 和 export default 的区别是什么](https://github.com/gg8899/fe-interview/issues/234)
 - [Array(100).map(x => 1) 结果是多少？](https://github.com/gg8899/fe-interview/issues/244)
 - [isNaN 和 Number.isNaN 的区别](https://github.com/gg8899/fe-interview/issues/260)
-
+- [如何实现一个 flatMap 函数](https://github.com/gg8899/fe-interview/issues/297)
 - [JS 如何中断代码的执行](https://github.com/gg8899/fe-interview/issues/265)
 - [如何实现 compose 函数，进行函数合成](https://github.com/gg8899/fe-interview/issues/278)
+- [说说 JS 中内存泄漏的几种情况](https://github.com/gg8899/fe-interview/issues/302)
 
 
-
-- [如何实现一个 flatMap 函数](https://github.com/gg8899/fe-interview/issues/297)
 
 ## TypeScript
 
