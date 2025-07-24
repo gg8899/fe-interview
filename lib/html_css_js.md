@@ -101,8 +101,6 @@
 - [react 定义props类型，然后如何使用，那样写有何意义。](https://github.com/gg8899/fe-interview/issues/38)
 - [什么是联合类型，如何定义。](https://github.com/gg8899/fe-interview/issues/36)
 - [interface 和 type的区别是什么。可不可以重复定义。](https://github.com/gg8899/fe-interview/issues/37)
-
-
 - [在 Typescript 中如何实现类型标记 Pick 与 Omit](https://github.com/gg8899/fe-interview/issues/257)
 - [js 中如何实现 bind](https://github.com/gg8899/fe-interview/issues/276)
 
