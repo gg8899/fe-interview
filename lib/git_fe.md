@@ -6,4 +6,4 @@
 - [多分支怎么出来协同开发的情况](https://github.com/gg8899/fe-interview/issues/295)
 - [如何在 git 提交的时候避开提交的校验](https://github.com/gg8899/fe-interview/issues/296)
 - [git pull 和 git fetch 有什么区别](https://github.com/gg8899/fe-interview/issues/304)
-- [说说 git 发生冲突的场景？如何解决？](https://github.com/gg8899/fe-interview/issues/305)
+- [说说 git 发生冲突的场景？如何解决](https://github.com/gg8899/fe-interview/issues/305)
