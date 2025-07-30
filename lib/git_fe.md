@@ -9,7 +9,7 @@
 - [git pull 和 git fetch 有什么区别](https://github.com/gg8899/fe-interview/issues/304)
 - [说说 git 发生冲突的场景？如何解决](https://github.com/gg8899/fe-interview/issues/305)
 - [什么是 Git Hook？前端开发中有哪些应用场景](https://github.com/gg8899/fe-interview/issues/307)
-- 如何修改最近的提交信息？
+- [如何修改最近的提交信息](https://github.com/gg8899/fe-interview/issues/310)
 - [前端项目中 .gitignore 文件的作用是什么？通常会忽略哪些文件](https://github.com/gg8899/fe-interview/issues/308)
 - [如何查看提交历史？有哪些常用选项？](https://github.com/gg8899/fe-interview/issues/309)
 
