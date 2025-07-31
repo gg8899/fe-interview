@@ -34,7 +34,7 @@
 - [computed 和 method 的區別](https://github.com/gg8899/fe-interview/issues/237)
 - [vue3.0 中为什么要使用 Proxy，它相比以前的实现方式有什么改进](https://github.com/gg8899/fe-interview/issues/277)  
 - [vue-loader 的实现原理是什么](https://github.com/gg8899/fe-interview/issues/293)
-
+- [watchSource 的在vue中起什么作用.watchSource 的在vue中起什么作用。在vue中 为什么()=> x 可以监听x的数据](https://github.com/gg8899/fe-interview/issues/311)
 
 
 
