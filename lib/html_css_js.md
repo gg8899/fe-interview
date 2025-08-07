@@ -94,6 +94,7 @@
 - [说说 JS 中内存泄漏的几种情况](https://github.com/gg8899/fe-interview/issues/302)
 - [说说对尾递归的立即，有什么应用场景](https://github.com/gg8899/fe-interview/issues/303)
 - [如何解决深拷贝问题中的循环引用](https://github.com/gg8899/fe-interview/issues/315)
+- [js 中如何实现 bind](https://github.com/gg8899/fe-interview/issues/276)
 
 
 ## TypeScript
@@ -104,7 +105,7 @@
 - [什么是联合类型，如何定义。](https://github.com/gg8899/fe-interview/issues/36)
 - [interface 和 type的区别是什么。可不可以重复定义。](https://github.com/gg8899/fe-interview/issues/37)
 - [在 Typescript 中如何实现类型标记 Pick 与 Omit](https://github.com/gg8899/fe-interview/issues/257)
-- [js 中如何实现 bind](https://github.com/gg8899/fe-interview/issues/276)
+- [什麽是汎型，爲什麽要使用汎型](https://github.com/gg8899/fe-interview/issues/318)
 
 
 ### 代码运行结果题目
