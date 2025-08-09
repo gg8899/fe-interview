@@ -107,6 +107,9 @@
 - [在 Typescript 中如何实现类型标记 Pick 与 Omit](https://github.com/gg8899/fe-interview/issues/257)
 - [什麽是汎型，爲什麽要使用汎型](https://github.com/gg8899/fe-interview/issues/318)
 - [TypeScript 类（Class）相比 ES6 类有哪些增强](https://github.com/gg8899/fe-interview/issues/319)
+- [什么是条件类型（Conditional Types）？（T extends U ? X : Y）](https://github.com/gg8899/fe-interview/issues/320)
+
+
 
 ### 代码运行结果题目
 1. 以下代码运行结果是
