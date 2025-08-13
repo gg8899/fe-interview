@@ -64,3 +64,9 @@
 
 ## 狀態管理相關
 - {Pinia 相比於 Vuex 有什麽優點，爲什麽官方推薦使用 pinia。}(https://github.com/gg8899/fe-interview/issues/215)
+
+
+
+## vue-router
+- [vue-router怎么配置404页面](https://github.com/gg8899/fe-interview/issues/324)
+- [route和router有什么区别](https://github.com/gg8899/fe-interview/issues/325)
