@@ -68,5 +68,6 @@
 
 
 ## vue-router
+- [vue-router路由有几种模式？说说它们的区别](https://github.com/gg8899/fe-interview/issues/326)
 - [vue-router怎么配置404页面](https://github.com/gg8899/fe-interview/issues/324)
 - [route和router有什么区别](https://github.com/gg8899/fe-interview/issues/325)
