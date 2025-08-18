@@ -36,6 +36,7 @@
 - [vue-loader 的实现原理是什么](https://github.com/gg8899/fe-interview/issues/293)
 - [watchSource 的在vue中起什么作用.watchSource 的在vue中起什么作用。在vue中 为什么()=> x 可以监听x的数据](https://github.com/gg8899/fe-interview/issues/311)
 - [说说看v-model的原理吗？](https://github.com/gg8899/fe-interview/issues/323)
+- [如何让 watch 只执行一次](https://github.com/gg8899/fe-interview/issues/330)
 
 
 
@@ -47,6 +48,7 @@
 - [proxy vue3 如何解除响应式。](https://github.com/gg8899/fe-interview/issues/135)
 - [使用 vue Plugin 实现一个 Toast 插件。](https://github.com/gg8899/fe-interview/issues/147)
 - [封装一个 vue hooks 的计时器。](https://github.com/gg8899/fe-interview/issues/146)
+- [怎么在watch监听开始之后立即被调用](https://github.com/gg8899/fe-interview/issues/329)
 
 
 ## vue2
