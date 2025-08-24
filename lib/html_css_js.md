@@ -94,10 +94,13 @@
 - [说说对尾递归的立即，有什么应用场景](https://github.com/gg8899/fe-interview/issues/303)
 - [如何解决深拷贝问题中的循环引用](https://github.com/gg8899/fe-interview/issues/315)
 - [js 中如何实现 bind](https://github.com/gg8899/fe-interview/issues/276)
+- [添加原生事件如果不移除为什么会内存泄露](https://github.com/gg8899/fe-interview/issues/331)
+- [JS 内存泄漏和内存溢出有什么区别](https://github.com/gg8899/fe-interview/issues/332)
+- [如何判断两个对象相等](https://github.com/gg8899/fe-interview/issues/333)
+- [你是如何排查js内存泄漏的](https://github.com/gg8899/fe-interview/issues/334)
 
 
 ## TypeScript
-
 - [引入了一个外部版本的库，然后没有对应的类型文件，你应该如何处理。](https://github.com/gg8899/fe-interview/issues/35)
 - [react的类型文件一般从哪里引入。](https://github.com/gg8899/fe-interview/issues/39)
 - [react 定义props类型，然后如何使用，那样写有何意义。](https://github.com/gg8899/fe-interview/issues/38)
