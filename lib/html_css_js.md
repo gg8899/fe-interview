@@ -111,6 +111,7 @@
 - [TypeScript 类（Class）相比 ES6 类有哪些增强](https://github.com/gg8899/fe-interview/issues/319)
 - [什么是条件类型（Conditional Types）？（T extends U ? X : Y）](https://github.com/gg8899/fe-interview/issues/320)
 - [TypeScript 中有哪些基本（原始）数据类型](https://github.com/gg8899/fe-interview/issues/321)
+- [说说对 TS 中命名空间与模块的理解，区别？](https://github.com/gg8899/fe-interview/issues/337)
 
 
 ### 代码运行结果题目
