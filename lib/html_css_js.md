@@ -99,6 +99,7 @@
 - [JS 内存泄漏和内存溢出有什么区别](https://github.com/gg8899/fe-interview/issues/332)
 - [如何判断两个对象相等](https://github.com/gg8899/fe-interview/issues/333)
 - [你是如何排查js内存泄漏的](https://github.com/gg8899/fe-interview/issues/334)
+- [如何使用 async/await 实现 Promise.all 的效果](https://github.com/gg8899/fe-interview/issues/339)
 
 
 ## TypeScript
