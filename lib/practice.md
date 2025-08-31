@@ -20,15 +20,12 @@
 - [用过哪些设计模式。](https://github.com/gg8899/fe-interview/issues/173)
 - [組件發佈是不是所有依賴這個組件的項目都要升級](https://github.com/gg8899/fe-interview/issues/224)
 - [网站开发中，如何实现图片的懒加载](https://github.com/gg8899/fe-interview/issues/250)
-
 - [前端金额精度丢失问题及其解决方案](https://github.com/gg8899/fe-interview/issues/258)
-
 - [如何优雅实现本地存储数据自动过期?](https://github.com/gg8899/fe-interview/issues/262)
-
 - [如何在 url 中传递数组](https://github.com/gg8899/fe-interview/issues/266)
 - [移动端的性能优化有哪些方法](https://github.com/gg8899/fe-interview/issues/336)
 - [如何手动实现一个模块的按需加载](https://github.com/gg8899/fe-interview/issues/341)
-
+- [（vue）如何在编辑表单的时候，离开当前页面做页面拦截](https://github.com/gg8899/fe-interview/issues/342)
 
 
 
