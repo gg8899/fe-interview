@@ -103,6 +103,10 @@
 - [如何判断两个对象相等](https://github.com/gg8899/fe-interview/issues/333)
 - [你是如何排查js内存泄漏的](https://github.com/gg8899/fe-interview/issues/334)
 - [如何使用 async/await 实现 Promise.all 的效果](https://github.com/gg8899/fe-interview/issues/339)
+- [为什么 JS 不能直接直接修改字符串的内容](https://github.com/gg8899/fe-interview/issues/345)
+- [Math.max([]) 和 Math.max(...[]) 的结果分别是什么](https://github.com/gg8899/fe-interview/issues/346)
+
+
 
 
 ## TypeScript
