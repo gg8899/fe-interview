@@ -32,8 +32,8 @@
 - [什么是单例模式。如何应用到项目中实现全局loading](https://github.com/gg8899/fe-interview/issues/347)
 - [[Big.js] new big数据类型之后，如何使用它](https://github.com/gg8899/fe-interview/issues/349)
 - [[tailwind] css 常用的一些API及作用](https://github.com/gg8899/fe-interview/issues/350)
-
-
+- [如何不区分大小写进行查询搜索，用正则又如何实现](https://github.com/gg8899/fe-interview/issues/351)
+- [如何封装一个骨架屏（checkPage hooks）。只有首次加载的时候，才会展示骨架屏的内容加载（如何优化实现](https://github.com/gg8899/fe-interview/issues/352)
 
 
 ## vue3 CMU 相关

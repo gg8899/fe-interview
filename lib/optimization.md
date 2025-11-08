@@ -44,7 +44,7 @@
 - [performance API 中什么指标可以衡量首屏时间](https://github.com/gg8899/fe-interview/issues/248)
 - [optionalDependencies 的使用场景是什么](https://github.com/gg8899/fe-interview/issues/253)
 - [peerDependency 是为了解决什么问题](https://github.com/gg8899/fe-interview/issues/255)
-
+- [vite 做过哪些项目优化内容。（vue3）](https://github.com/gg8899/fe-interview/issues/353)
 
 ### Vite
 
