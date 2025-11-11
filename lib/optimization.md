@@ -45,6 +45,9 @@
 - [optionalDependencies 的使用场景是什么](https://github.com/gg8899/fe-interview/issues/253)
 - [peerDependency 是为了解决什么问题](https://github.com/gg8899/fe-interview/issues/255)
 - [vite 做过哪些项目优化内容。（vue3）](https://github.com/gg8899/fe-interview/issues/353)
+- [如何實現在請求沒有完成的時候，利用 promise 過濾重複請求](https://github.com/gg8899/fe-interview/issues/354)
+
+
 
 ### Vite
 
