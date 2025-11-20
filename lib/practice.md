@@ -26,6 +26,7 @@
 - [移动端的性能优化有哪些方法](https://github.com/gg8899/fe-interview/issues/336)
 - [如何手动实现一个模块的按需加载](https://github.com/gg8899/fe-interview/issues/341)
 - [（vue）如何在编辑表单的时候，离开当前页面做页面拦截](https://github.com/gg8899/fe-interview/issues/342)
+- [（vue）如何實現頁面緩存](https://github.com/gg8899/fe-interview/issues/356)
 
 - [(vue) 为何组件的注册的事件函数点击一下会调用两次](https://github.com/gg8899/fe-interview/issues/348)
 
