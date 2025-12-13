@@ -37,6 +37,8 @@
 - [如何封装一个骨架屏（checkPage hooks）。只有首次加载的时候，才会展示骨架屏的内容加载（如何优化实现](https://github.com/gg8899/fe-interview/issues/352)
 - [XML 头不匹配的常见原因](https://github.com/gg8899/fe-interview/issues/360)
 
+- [我的form表单，删除了一个元素，他的校验错误仍然展示着](https://github.com/gg8899/fe-interview/issues/362)
+
 
 ## vue3 CMU 相关
 1. 项目 `approval` 和 `effective` 流程实现。
