@@ -105,6 +105,7 @@
 - [如何使用 async/await 实现 Promise.all 的效果](https://github.com/gg8899/fe-interview/issues/339)
 - [为什么 JS 不能直接直接修改字符串的内容](https://github.com/gg8899/fe-interview/issues/345)
 - [Math.max([]) 和 Math.max(...[]) 的结果分别是什么](https://github.com/gg8899/fe-interview/issues/346)
+- [如何處理默認值為 number 類型的 0 被當作 false 處理的情況](https://github.com/gg8899/fe-interview/issues/358)
 
 
 
@@ -121,6 +122,9 @@
 - [什么是条件类型（Conditional Types）？（T extends U ? X : Y）](https://github.com/gg8899/fe-interview/issues/320)
 - [TypeScript 中有哪些基本（原始）数据类型](https://github.com/gg8899/fe-interview/issues/321)
 - [说说对 TS 中命名空间与模块的理解，区别？](https://github.com/gg8899/fe-interview/issues/337)
+
+
+- [ts解构出来，怎么给解构的同时强制转换类型?](https://github.com/gg8899/fe-interview/issues/357)
 
 
 ### 代码运行结果题目

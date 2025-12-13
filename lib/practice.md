@@ -35,6 +35,7 @@
 - [[tailwind] css 常用的一些API及作用](https://github.com/gg8899/fe-interview/issues/350)
 - [如何不区分大小写进行查询搜索，用正则又如何实现](https://github.com/gg8899/fe-interview/issues/351)
 - [如何封装一个骨架屏（checkPage hooks）。只有首次加载的时候，才会展示骨架屏的内容加载（如何优化实现](https://github.com/gg8899/fe-interview/issues/352)
+- [XML 头不匹配的常见原因](https://github.com/gg8899/fe-interview/issues/360)
 
 
 ## vue3 CMU 相关
