@@ -50,6 +50,7 @@
 - [封装一个 vue hooks 的计时器。](https://github.com/gg8899/fe-interview/issues/146)
 - [怎么在watch监听开始之后立即被调用](https://github.com/gg8899/fe-interview/issues/329)
 - [在 Vue 3 中，计算属性（computed）里访问外部对象却拿不到你预期的值。WHY？](https://github.com/gg8899/fe-interview/issues/359)
+- [[vue3] () => x.value 和 x.value 有什麽區別](https://github.com/gg8899/fe-interview/issues/365)
 
 
 ## vue2
