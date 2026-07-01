@@ -107,7 +107,7 @@
 - [Math.max([]) 和 Math.max(...[]) 的结果分别是什么](https://github.com/gg8899/fe-interview/issues/346)
 - [如何處理默認值為 number 類型的 0 被當作 false 處理的情況](https://github.com/gg8899/fe-interview/issues/358)
 - [通過一個函數獲取數據，結果值一直被包裹了一層 promise， 怎麽處理這種情況。](https://github.com/gg8899/fe-interview/issues/363)
-
+- [Object.assign的作用。](https://github.com/gg8899/fe-interview/issues/366)
 
 
 ## TypeScript
