@@ -108,7 +108,7 @@
 - [如何處理默認值為 number 類型的 0 被當作 false 處理的情況](https://github.com/gg8899/fe-interview/issues/358)
 - [通過一個函數獲取數據，結果值一直被包裹了一層 promise， 怎麽處理這種情況。](https://github.com/gg8899/fe-interview/issues/363)
 - [Object.assign的作用。](https://github.com/gg8899/fe-interview/issues/366)
-
+- [去掉字符串里的双引号](https://github.com/gg8899/fe-interview/issues/367)
 
 ## TypeScript
 - [引入了一个外部版本的库，然后没有对应的类型文件，你应该如何处理。](https://github.com/gg8899/fe-interview/issues/35)
