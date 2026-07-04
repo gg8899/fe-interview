@@ -5,6 +5,7 @@
 - [vue 有哪些指令。](https://github.com/gg8899/fe-interview/issues/127)
 - [v-if 和 v-for 为什么不能同时使用。](https://github.com/gg8899/fe-interview/issues/128)
 - [v-if 和 v-show 的区别。v-show 会导致重排吗？](https://github.com/gg8899/fe-interview/issues/129)
+- [v-show 作用在组件上失效了?](https://github.com/gg8899/fe-interview/issues/368)
 - [vue 中有哪些修饰符。](https://github.com/gg8899/fe-interview/issues/130)
 - [vue 组件如何进行通信。](https://github.com/gg8899/fe-interview/issues/131)
 - [watch 和 computed 的区别，应用场景，底层源码如何实现的。](https://github.com/gg8899/fe-interview/issues/132)
