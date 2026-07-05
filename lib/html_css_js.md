@@ -23,6 +23,10 @@
 - [如何实现网页的加载进度条](https://github.com/gg8899/fe-interview/issues/263)
 - [css中定义class时，中间有空格和没空格的区别是什么](https://github.com/gg8899/fe-interview/issues/314)
 - [用css隐藏input的光标](https://github.com/gg8899/fe-interview/issues/317)
+- [前端如何解析多个空格](https://github.com/gg8899/fe-interview/issues/369)
+- [break-word 的作用](https://github.com/gg8899/fe-interview/issues/370)
+
+
 
 ## 三、JS 部分
 - [JS 有几种基本数据类型，分别有哪些？](https://github.com/gg8899/fe-interview/issues/148)
