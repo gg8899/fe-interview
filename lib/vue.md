@@ -52,7 +52,7 @@
 - [怎么在watch监听开始之后立即被调用](https://github.com/gg8899/fe-interview/issues/329)
 - [在 Vue 3 中，计算属性（computed）里访问外部对象却拿不到你预期的值。WHY？](https://github.com/gg8899/fe-interview/issues/359)
 - [[vue3] () => x.value 和 x.value 有什麽區別](https://github.com/gg8899/fe-interview/issues/365)
-
+- [keep-alive 起什么作用](https://github.com/gg8899/fe-interview/issues/371)
 
 ## vue2
 - [vue2 有几个生命周期钩子，常用的有哪些。](https://github.com/gg8899/fe-interview/issues/138)
