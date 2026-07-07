@@ -78,3 +78,7 @@
 - [route和router有什么区别](https://github.com/gg8899/fe-interview/issues/325)
 - [切换路由时，需要保存草稿的功能，vue 怎么实现](https://github.com/gg8899/fe-interview/issues/327)
 - [怎样动态加载路由](https://github.com/gg8899/fe-interview/issues/328)
+
+
+## vue 工具相关的应用
+- [(vueuse)createSharedComposable的作用](https://github.com/gg8899/fe-interview/issues/372)
