@@ -113,6 +113,7 @@
 - [通過一個函數獲取數據，結果值一直被包裹了一層 promise， 怎麽處理這種情況。](https://github.com/gg8899/fe-interview/issues/363)
 - [Object.assign的作用。](https://github.com/gg8899/fe-interview/issues/366)
 - [去掉字符串里的双引号](https://github.com/gg8899/fe-interview/issues/367)
+- [compositionstart 函数和compositionend 函数作用](https://github.com/gg8899/fe-interview/issues/375)
 
 
 ## TypeScript
@@ -127,8 +128,6 @@
 - [什么是条件类型（Conditional Types）？（T extends U ? X : Y）](https://github.com/gg8899/fe-interview/issues/320)
 - [TypeScript 中有哪些基本（原始）数据类型](https://github.com/gg8899/fe-interview/issues/321)
 - [说说对 TS 中命名空间与模块的理解，区别？](https://github.com/gg8899/fe-interview/issues/337)
-
-
 - [ts解构出来，怎么给解构的同时强制转换类型?](https://github.com/gg8899/fe-interview/issues/357)
 
 

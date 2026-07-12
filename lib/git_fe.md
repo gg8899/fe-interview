@@ -16,4 +16,4 @@
 
 
 - [git push 提交，报错js栈溢出是为什么](https://github.com/gg8899/fe-interview/issues/361)
-
+- [git switch 和 git checkout 有什么区别？作用一样吗](https://github.com/gg8899/fe-interview/issues/374)

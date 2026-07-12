@@ -41,7 +41,6 @@
 - [使用組件插槽的一些小問題記錄](https://github.com/gg8899/fe-interview/issues/355)
 
 
-
 ## vue3
 - [vue3 的响应式是如何实现的, reactive 和 readOnly 的区别是什么。](https://github.com/gg8899/fe-interview/issues/136)
 - [vue3 的双向数据绑定原理, 如何实现的。基于vue2 有哪些优势。](https://github.com/gg8899/fe-interview/issues/141)

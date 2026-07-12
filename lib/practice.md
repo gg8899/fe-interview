@@ -39,8 +39,9 @@
 
 - [我的form表单，删除了一个元素，他的校验错误仍然展示着](https://github.com/gg8899/fe-interview/issues/362)
 
-- [項目實踐相關-頁面緩存内存體積過大，如何優化]()
+- [computed 计算结果是否会根据依赖重新计算遇到的问题](https://github.com/gg8899/fe-interview/issues/376)
 
+- [項目實踐相關-頁面緩存内存體積過大，如何優化]()
 
 
 
