@@ -114,7 +114,7 @@
 - [Object.assign的作用。](https://github.com/gg8899/fe-interview/issues/366)
 - [去掉字符串里的双引号](https://github.com/gg8899/fe-interview/issues/367)
 - [compositionstart 函数和compositionend 函数作用](https://github.com/gg8899/fe-interview/issues/375)
-
+- [如何实现输入字符自动换行处理](https://github.com/gg8899/fe-interview/issues/379)
 
 ## TypeScript
 - [引入了一个外部版本的库，然后没有对应的类型文件，你应该如何处理。](https://github.com/gg8899/fe-interview/issues/35)

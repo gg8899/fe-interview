@@ -13,7 +13,6 @@
 - [前端项目中 .gitignore 文件的作用是什么？通常会忽略哪些文件](https://github.com/gg8899/fe-interview/issues/308)
 - [如何查看提交历史？有哪些常用选项？](https://github.com/gg8899/fe-interview/issues/309)
 - [git stash 作用是什么，还有哪些衍生命令](https://github.com/gg8899/fe-interview/issues/373)
-
-
+- [如何回退提交](https://github.com/gg8899/fe-interview/issues/378)
 - [git push 提交，报错js栈溢出是为什么](https://github.com/gg8899/fe-interview/issues/361)
 - [git switch 和 git checkout 有什么区别？作用一样吗](https://github.com/gg8899/fe-interview/issues/374)
