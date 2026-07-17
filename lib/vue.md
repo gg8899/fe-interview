@@ -39,7 +39,7 @@
 - [说说看v-model的原理吗？](https://github.com/gg8899/fe-interview/issues/323)
 - [如何让 watch 只执行一次](https://github.com/gg8899/fe-interview/issues/330)
 - [使用組件插槽的一些小問題記錄](https://github.com/gg8899/fe-interview/issues/355)
-
+- [vue怎么获取DOM节点？](https://github.com/gg8899/fe-interview/issues/380)
 
 ## vue3
 - [vue3 的响应式是如何实现的, reactive 和 readOnly 的区别是什么。](https://github.com/gg8899/fe-interview/issues/136)
@@ -77,6 +77,7 @@
 - [route和router有什么区别](https://github.com/gg8899/fe-interview/issues/325)
 - [切换路由时，需要保存草稿的功能，vue 怎么实现](https://github.com/gg8899/fe-interview/issues/327)
 - [怎样动态加载路由](https://github.com/gg8899/fe-interview/issues/328)
+- [vue-router钩子函数有哪些？都有哪些参数？](https://github.com/gg8899/fe-interview/issues/381)
 
 
 ## vue 工具相关的应用
